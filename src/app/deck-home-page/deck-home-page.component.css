@@ -1,0 +1,26 @@
+.btn {
+    border-radius: 0px;
+}
+.valid {
+    color: green;
+}
+.invalid {
+    color: red;
+}
+.form-control {
+    border-radius: 0px;
+}
+.card img {
+    height: 300px;
+}
+.cardBlock {
+    width: 100%;
+    height: auto;
+    background-color: green;
+    border: 1px solid white;
+}
+    .cardBlock p {
+        color: white;
+        padding: 1rem;
+        margin: 0px;
+    }
